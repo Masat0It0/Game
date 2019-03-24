@@ -1,7 +1,12 @@
+### sources;
+### better write rock paper scissors (python)
+### https://stackoverflow.com/questions/49630723/better-write-rock-paper-scissors-python
+
 import random
 
 ### *1 @classmethod 
-### @classmethodをデコレーターで定義 
+### @classmethodをデコレーターで定義
+### *2 random.choice()
 
 
 class Hand:
